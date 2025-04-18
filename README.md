@@ -1,9 +1,5 @@
 # Moodle Chatbot Project
 
-# project presentation link: 
-
-
-
 ## Overview
 
 This project aims to develop a chatbot capable of answering general questions by leveraging data extracted from Moodle. The process involves:
